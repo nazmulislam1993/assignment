@@ -1,0 +1,90 @@
+*{margin:0px; padding: 0px}
+.header{
+	background-color: #46639D; 
+	height: 100px;
+	overflow: hidden;
+}
+.wrapper{
+	width: 90%;
+	margin: 0px auto;
+}
+.logo{ 
+	background-color: #46639D;
+	border:2px solid #46639D;
+	box-sizing: border-box;
+	min-height: 100px;
+	width: 15%;
+	margin: 1px 0%;
+	float: left;
+}
+#pic{background-color: white;
+	box-sizing: border-box;
+	min-height: 100px;
+	width: 100%;
+	margin: 1px 0%;
+	float: left;
+}
+
+.login{
+	background-color: #46639D;
+	border:2px solid #46639D;
+	box-sizing: border-box;
+	min-height: 100px;
+	width: 30%;
+	margin: 25px 0%;
+	float: right;
+}
+
+.password a{
+	color:#9CB4CE;
+	text-decoration: none;
+}
+.email, .password, .loginbutton{
+	color: white;
+	float:left;
+}
+
+.content{
+	background-color: #E9EBEE; 
+	min-height: 600px;
+	overflow: hidden;
+}
+
+.content_text{
+	min-height: 250px;
+	width: 40%;
+	margin: 55px 0%;
+	float: left;
+}
+.registration_form{
+
+	min-height: 350px;
+	width: 40%;
+	margin: 25px 0%;
+	float: right;
+}
+.footer{
+	background-color: white; 
+	min-height: 100px;
+	overflow: hidden;
+}
+.footer_top{
+	min-height: 30px;
+	width: 100%;
+	margin: 15px auto;
+
+}
+.footer_bottom{
+	min-height: 70px;
+	width:100%;
+	margin: 15px auto;
+}
+
+.link{
+		float: left;
+	margin: 10px 2%;
+}
+.para{
+	float: left;
+margin: 10px 20%;
+}
